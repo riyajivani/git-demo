@@ -11,7 +11,7 @@ Topics Covered:
 - Staging area
 - Branching
 - Merging
-- Remote repositories
+- Remote repositories statshing
 
 Status:
 Project initialized in feature/git-sesion.
