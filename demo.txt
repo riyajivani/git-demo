@@ -1,0 +1,17 @@
+Project: Git Intern Demo
+
+Author: Ree
+Version: 1.0
+
+Description:
+This is a simple demo file created to understand Git concepts.
+
+Topics Covered:
+- Git basics
+- Staging area
+- Branching
+- Merging
+- Remote repositories
+
+Status:
+Project initialized in feature/git-sesion.
